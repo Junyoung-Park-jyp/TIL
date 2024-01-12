@@ -1,6 +1,6 @@
 # TIL
 
-![cat](./media/images/SiamCat.jpg)
+![cat](./asset/images/SiamCat.jpg)
 
 ## 2024 January
 
