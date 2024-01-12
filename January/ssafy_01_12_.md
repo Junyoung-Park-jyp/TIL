@@ -66,4 +66,10 @@ Original file is located at
 
 * Git에서 특정 파일, 디렉토리를 관리하지 않게 하는 텍스트 파일
 * 이미 commit으로 관리 대상이 된다면, 이후에 gitignore에 등록해도 관리가 된다
+
+## git file의 status
+
+* untracked: 신규 파일(track X)
+* modified: 변경된 파일
+  * red=working directory, greem=staging area
 """

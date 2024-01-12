@@ -318,28 +318,19 @@ def ssafy_11():
 
 ## GIT 명령어
 
-* git init
+* `git init`
   * git으로 이 저장소를 관리하겠다는 선언(시작)
   * git 로컬 저장소 내에 또다른 git로컬 저장소를 만들지 말 것
   * git 저장소 안에 git 저장소가 존재할 경우, 가장 바깥 쪽의 저장소가 안쪽의 변경사항을 추적 불가
 
-* git add
-  * 변경 사항을 staging area에 추가
+* `git add`: 변경 사항을 staging area에 추가
 
-* git commit
-  * repository에 변경 사항을 저장
-  * git log 로 commit 목록 확인가능
-  * git log --oneline 으로 한줄 확인 가능
+* `git commit`: repository에 변경 사항을 저장
+  * `git log`: commit 목록 확인
+  * `git log --oneline`: 목록 한줄 확인
 
-* git clone
-* git pull
-* git push
-
+* `git clone`: 저장소 복제
+* `git pull`: github repository를 local에 가져옴
+* `git push`: local 변경점을 github repository로 보냄
+* `git config --global -l`: 현재 config설정 조회
 """
-
-
-
-t = int(input())
-
-for i in range(1, t+1):
-    print(f'{" "*(t-i)}{"*"*(2*i-1)}{" "*(t-i)}')
