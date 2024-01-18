@@ -13,3 +13,5 @@
 * 01/16 dtype(sequence) & 연산자 [01/16](./January/ssafy_01_16.md)
 
 * 01/17 function & parameters [01/17](./January/ssafy_01_17.md)
+
+* 01/18 function & 조건문 & 반복문 [01/18](./January/ssafy_01_18.md)
