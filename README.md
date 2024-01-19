@@ -15,3 +15,5 @@
 * 01/17 function & parameters [01/17](./January/ssafy_01_17.md)
 
 * 01/18 function & 조건문 & 반복문 [01/18](./January/ssafy_01_18.md)
+
+* 01/19 관통 프로젝트 시작 [01/19](./January/ssafy_01_19.md)
