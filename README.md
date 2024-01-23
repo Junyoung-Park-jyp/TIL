@@ -18,4 +18,6 @@
 
 * 01/19 관통 프로젝트 시작 [01/19](./January/ssafy_01_19.md)
 
-* 01/22 Data Structure & 시퀀스 구조 [01/22](./January/ssafy_01_22.md)
+* 01/22 Data Structure(시퀀스) [01/22](./January/ssafy_01_22.md)
+
+* 01/23 Data Structure(비시퀀스) & Hash Table [01/23](./January/ssafy_01_23.md)
