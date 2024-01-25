@@ -23,3 +23,5 @@
 * 01/23 Data Structure(비시퀀스) & Hash Table [01/23](./January/ssafy_01_23.md)
 
 * 01/24 OOP & Class & methods [01/24](./January/ssafy_01_24.md)
+
+* 01/25 OOP & Errors, Debug [01/25](./January/ssafy_01_25.md)
