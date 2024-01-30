@@ -25,3 +25,9 @@
 * 01/24 OOP & Class & methods [01/24](./January/ssafy_01_24.md)
 
 * 01/25 OOP & Errors, Debug [01/25](./January/ssafy_01_25.md)
+
+* 01/26 관통 프로젝트 2회차 [01/26](./January/ssafy_01_26.md)
+
+* 01/29 APT Start & Bubble Sort [01/29](./January/ssafy_01_29.md)
+
+* 01/30 Counting Sort & Greedy [01/30](./January/ssafy_01_30.md)
