@@ -32,4 +32,8 @@
 
 * 01/30 Counting Sort & Greedy [01/30](./January/ssafy_01_30.md)
 
-* 01/31 Selection Sort [01/30](./January/ssafy_01_31.md)
+* 01/31 Selection Sort & Matrix [01/31](./January/ssafy_01_31.md)
+
+## 2024 February
+
+* 02/01
