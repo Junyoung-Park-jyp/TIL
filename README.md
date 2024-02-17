@@ -36,4 +36,16 @@
 
 ## 2024 February
 
-* 02/01
+* 02/01 순차 탐색 & 이진 탐색 [02/01](./February/ssafy_02_01.md)
+
+* 02/06 String & 브루트포스 [02/06](./February/ssafy_02_06.md)
+
+* 02/07 Stack [02/07](./February/ssafy_02_07.md)
+ 
+* 02/13 Stack2 & 후위표기식 [02/13](./February/ssafy_02_13.md)
+
+* 02/14 분할 정복 & Quick Sort [02/14](./February/ssafy_02_14.md)
+
+* 02/15 Queue [02/15](./February/ssafy_02_15.md)
+
+* 02/16 BFS [02/16](./February/ssafy_02_16.md)
